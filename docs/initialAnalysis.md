@@ -1,10 +1,14 @@
 
 # Initial Analysis
 
-## Questions
+## Inital Discusion
+
+### Questions
 
 1. What to use as source of data?
 2. How does the input needs to be styled?
+
+### Answers
 
 1. The assigment description doesn't specify any particular source of data
 2. Not specefied in the assigment, but in the interest of user experience let's create a styled user friendly and intuitive component (let's wait with specific ideas until we've got a prototype we can play with)
