@@ -14,7 +14,7 @@
 2.
     * Not specefied in the assigment, but in the interest of user experience let's create a styled user friendly and intuitive component
     * The autocomplete input should open automaticaly when writing; Options in the suggest list should be selectable with arrows, so user don't have to put hands out of keyboard
-    * Let's wait with more specific ideas until we've got a prototype we can play with
+    * Let's wait with more specific ideas until we've got a prototype to play with
 
 ## TODO Before Start of Development
 
