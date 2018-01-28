@@ -10,10 +10,10 @@
 
 ### Answers
 
-1. The assigment description doesn't specify any particular source of data
+1. The assigment description doesn't specify any particular source of data, maybe we could use the google's search API
 2. Not specefied in the assigment, but in the interest of user experience let's create a styled user friendly and intuitive component (let's wait with specific ideas until we've got a prototype we can play with)
 
 ## TODO Before Start of Development
 
-1. Think of the data source
+1. Research the Google Autocomplete API
 2. Research whether we can use the ant.design component AutoComplete
