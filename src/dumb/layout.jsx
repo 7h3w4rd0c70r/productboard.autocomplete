@@ -21,10 +21,10 @@ export default function LayoutDumb() {
                         Autocomplete Example
                     </p>
                     <p className={cx('description')}>
-                        This autocomplete example uses <strong>Google API</strong> to guess what you are trying to type in.
+                        This autocomplete example uses <a href='https://stackoverflow.com/questions/6428502/google-search-autocomplete-api' target='_blank'>Google Autocomplete API</a> to guess what you are trying to type in.
                     </p>
                     <p className={cx('description')}>
-                        The input it self is in two variations - raw html input with dataoptions without any special styling and second variation is using select styled with AntD component <a href='https://ant.design/components/auto-complete/' target='_blank'>AutoComplete</a> for a nice user interface.
+                        The input it self is in two variations - raw HTML input with dataoptions without any special styling and second variation is using select styled with AntD component <a href='https://ant.design/components/auto-complete/' target='_blank'>AutoComplete</a> for a nice user interface.
                     </p>
                 </Col>
             </Row>
@@ -35,7 +35,7 @@ export default function LayoutDumb() {
                             checked={this.state.usePureHtml}
                             onChange={this.changeUsePureHtml}
                         >
-                            Use pure html
+                            Use pure HTML
                         </Checkbox>
                     </FormItem>
                 </Col>
