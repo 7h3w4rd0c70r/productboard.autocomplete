@@ -5,8 +5,8 @@ This project is my solution to the assigment from [this gist](https://gist.githu
 
 ## Docs
 
-* [Inital analysis](https://github.com/7h3w4rd0c70r/productboard.autocomplete/blob/master/docs/initialAnalysis.me)
-* [Final analysis](https://github.com/7h3w4rd0c70r/productboard.autocomplete/blob/master/docs/finalAnalysis.me)
+* [Inital analysis](https://github.com/7h3w4rd0c70r/productboard.autocomplete/blob/master/docs/initialAnalysis.md)
+* [Final analysis](https://github.com/7h3w4rd0c70r/productboard.autocomplete/blob/master/docs/finalAnalysis.md)
 
 ## Data Source
 
