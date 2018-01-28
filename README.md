@@ -3,7 +3,7 @@
 
 This project is my solution to the assigment from [this gist](https://gist.github.com/hejld/a292ba3840bed29837f31427baa22dc1).
 
-## Docs
+## Analyses
 
 * [Inital analysis](https://github.com/7h3w4rd0c70r/productboard.autocomplete/blob/master/docs/initialAnalysis.md)
 * [Final analysis](https://github.com/7h3w4rd0c70r/productboard.autocomplete/blob/master/docs/finalAnalysis.md)
