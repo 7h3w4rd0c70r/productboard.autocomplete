@@ -15,3 +15,11 @@
 
 1. Research the Google Autocomplete API
 2. Research whether the ant.design's component AutoComplete meets our requirements for nice user experience
+
+## Time Estimates
+
+* Task research - cca .07MD
+* Project boilerplate - cca .07MD
+* Solution implementaion - cca .125MD
+
+### Total Time Estimate of .265MD
