@@ -8,10 +8,9 @@ This project is my solution to the assigment from [this gist](https://gist.githu
 * [Inital analysis](https://github.com/7h3w4rd0c70r/productboard.autocomplete/blob/master/docs/initialAnalysis.md)
 * [Final analysis](https://github.com/7h3w4rd0c70r/productboard.autocomplete/blob/master/docs/finalAnalysis.md)
 
-## Data Source
+## How to run
 
-This autocomplete example uses Google Autocomplete API to guess what you are trying to type in.
-
-## Input Component
-
-The input it self is in two variations - raw HTML input with dataoptions without any special styling and second variation is using select styled with AntD component AutoComplete for a nice user interface.
+1. Clone the project `git clone https://github.com/7h3w4rd0c70r/productboard.autocomplete.git`
+2. Install dependencies `npm i`
+3. Run project `npm run dev`
+4. Project is defaultly located at http://localhost:8051/
