@@ -36,7 +36,7 @@ class Search {
                 params: {
                     client: 'firefox',
                     q: _searchTerm,
-                }
+                },
             })
             .then(response => {
                 let body = [_searchTerm, [ ]]
