@@ -12,6 +12,7 @@ export default function InputDumb() {
                 placeholder='Start typing...'
                 value={this.state.searchTerm}
                 onChange={e => this.changeSearchTerm(e.target.value)}
+                autoFocus
             />
             <datalist id='searchOptions'>
                 {this.state.options.map(option =>

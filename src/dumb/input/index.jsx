@@ -20,6 +20,7 @@ export default function InputDumb() {
                 onSelect={this.changeSearchTerm}
                 dataSource={this.state.options}
                 allowClear
+                autoFocus
             />
         </div>
     )
